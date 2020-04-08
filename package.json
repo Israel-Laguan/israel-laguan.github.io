@@ -1,0 +1,21 @@
+{
+  "name": "israel-laguan-website",
+  "version": "1.0.0",
+  "description": "Website",
+  "main": "index.js",
+  "dependencies": {
+    "fullpage.js": "^3.0.8"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "sass": "^1.26.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/*.html --out-dir docs --port 3000",
+    "build": "parcel build src/*.html --out-dir docs --public-url ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
