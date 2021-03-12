@@ -16,16 +16,7 @@ document.querySelector(".filter-react").addEventListener("click", () => {
 document.querySelector(".filter-web").addEventListener("click", () => {
     mySelection('web');
 });
-
-// document.querySelector(".filter-java").addEventListener("click", () => {
-//     mySelection('java');
-// });
-
-// document.querySelector(".filter-csharp").addEventListener("click", () => {
-//     mySelection('csharp');
-// });
-
-
+//sergio
 function mySelection(c) {
     if (c === 'all') {
         for (let i = 0; i < allProjects.length; i++) {
