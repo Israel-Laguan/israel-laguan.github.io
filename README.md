@@ -17,28 +17,31 @@ My personal Portfolio, built with HTML5, CSS, some JavaScript and a lot of 💖!
         </div>
     </td>
     <td>
-        <div align="center">
+      <div align="center">
             <a href="mailto:israellaguan@gmail.com" target="_blank" rel="author">
                 <img src="./assets/technologies/email.png" style="border-radius: 10%" alt="My GitHub" height="45px">
-                <h3>
-                    Email me to 
-                    <a href="mailto:israellaguan@gmail.com">
-                        israellaguan@gmail.com
-                    </a>
-                </h3>
             </a>
+            <h3>
+                <a href="mailto:israellaguan@gmail.com" target="_blank" rel="author">
+                    Email me to israellaguan@gmail.com
+                </a>
+            </h3>
             <a href="https://www.linkedin.com/in/israellaguan/" target="_blank" rel="author">
                 <img src="./assets/technologies/linkedin.png" alt="My Linkedin" height="45px">
-                <h3>
-                    Connect to my Linkedin
-                </h3>
             </a>
+            <h3>
+                <a href="https://www.linkedin.com/in/israellaguan/" target="_blank" rel="author">
+                    Connect to my Linkedin
+                </a>
+            </h3>
             <a href="https://github.com/Israel-Laguan" target="_blank" rel="author">
                 <img src="./assets/technologies/github.png" style="border-radius: 10%" alt="My GitHub" height="45px">
-                <h3>
-                    Check my GitHub Profile
-                </h3>
             </a>
+            <h3>
+                <a href="https://github.com/Israel-Laguan" target="_blank" rel="author">
+                    Check my GitHub Profile
+                </a>
+            </h3>
         </div>
     </td>
   </tr>
