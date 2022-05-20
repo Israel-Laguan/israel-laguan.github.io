@@ -42,16 +42,16 @@ My personal Portfolio, built with HTML5, CSS, some JavaScript and a lot of 💖!
         </div>
     </td>
   </tr>
-</table> 
+</table>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://israel-laguan.github.io)
-[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://israel-laguan.github.io)
-[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://israel-laguan.github.io)
-[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://israel-laguan.github.io)
-[![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://israel-laguan.github.io)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://www.w3schools.com/TAgs/default.asp)
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://www.w3schools.com/css/)
+[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://devdocs.io/javascript/)
+[![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://www.w3schools.com/TAgs/default.asp)
 [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://israel-laguan.github.io)
 
-> Hi, I am Israel Laguan, a professional full stack developer willing to collaborate as a team player building better code. 
+> Hi, I am Israel Laguan, a professional full stack developer willing to collaborate as a team player building better code.
 
 Welcome to my portfolio, I want to show you my skills and why I consider myself a professional programmer!
 
@@ -65,8 +65,6 @@ The website is meant to be short, flashy and atractive, but maybe you want to mo
 
 ## Featured Projects (and some extras)
 
-
-
 ## More about me
 
 I studied maths before starting to work for a game company called Vertex Studio. Then I moved to Colombia and worked as a freelancer developing several production-ready backend and frontend projects. Lately, I entered Microverse, where I fine-tuned my software technical skills along with my professionalism as a remote programmer. Would you mind if I set up a quick call next week for us to talk about any upcoming opportunities on your team? Please [email me][] or reach to my socials networks
@@ -76,7 +74,7 @@ I studied maths before starting to work for a game company called Vertex Studio.
 [![contributions welcome][contributions-welcome]][issues-url]
 
 - Contributions, issues and feature requests are welcome!
-Feel free to check the [issues page][issues-url].
+  Feel free to check the [issues page][issues-url].
 
 # Show your support
 
